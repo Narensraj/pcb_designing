@@ -1,4 +1,5 @@
 {
   "6d965e1539f68c4b1d9a8185b216ab91": "ESP32_RelayControl",
-  "3636d5a7db8ffa248d56a2964f256613": "ESP32_RelayControl\\ESP32_RelayControl.json?ESP32_schematic"
+  "3636d5a7db8ffa248d56a2964f256613": "ESP32_RelayControl\\ESP32_RelayControl.json?ESP32_schematic",
+  "89d89ac751c129769e17ec32ff40ba0e": "ESP32_RelayControl\\PCB_ESP32_RelayControl.json"
 }

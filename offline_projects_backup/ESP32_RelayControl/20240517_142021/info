@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-17 15:40:32",
+  "updated_at": "2024-05-17 14:20:21",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "522b4697e3b91a5290094684eeae158c",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -30,10 +30,7 @@
         "59276ed4d85446239425872e59ab46d6": 1,
         "dd6e99fdd7b94bc4bef799f242c162d5": 1,
         "ce10a900082d4f3790a9c39740cc0400": 2,
-        "f0236a8022f64f3da5d82a1650fe24d3": 1,
-        "9c7da88b246144a28c5dcf0e4b9bccae": 1,
-        "8b8f2c4b0f1a4c05b9bf99dce6e3b5cc": 1,
-        "91d89f27d61c4f52841f6a3421663727": 1
+        "f0236a8022f64f3da5d82a1650fe24d3": 1
       },
       "BOM": [
         [
@@ -259,23 +256,6 @@
           }
         ],
         [
-          "150kΩ",
-          1,
-          "R0805",
-          "R5",
-          {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Manufacturer": "YAGEO(国巨)",
-            "Manufacturer Part": "RT0805FRE07150KL",
-            "Supplier Part": "C136901",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "RT0805FRE07150KL",
-            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
-            "uuid": "91d89f27d61c4f52841f6a3421663727"
-          }
-        ],
-        [
           "ESP32-S3-WROOM-1(N8R8)",
           1,
           "WIRELM-SMD_ESP32-S3-WROOM-1",
@@ -325,81 +305,18 @@
             "puuid": "02ae667aca734971be8a5f58143dd564",
             "uuid": "faf236210a474925a742e261270fefef"
           }
-        ],
-        [
-          "CH340C",
-          1,
-          "SOP-16_L10.0-W3.9-P1.27-LS6.0-BL",
-          "U4",
-          {
-            "Supplier": "LCSC",
-            "Manufacturer": "WCH(南京沁恒)",
-            "Manufacturer Part": "CH340C",
-            "Supplier Part": "C84681",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "CH340C",
-            "puuid": "bf1b7b0953d842979fbb5acfa9df7d18",
-            "uuid": "8b8f2c4b0f1a4c05b9bf99dce6e3b5cc"
-          }
-        ],
-        [
-          "TYPE-C-31-M-14",
-          1,
-          "USB-C-SMD_12P-P0.50-H-F_TYPE-C-31-M-14",
-          "USBC1",
-          {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Supplier Part": "C223907",
-            "Manufacturer": "韩国韩荣",
-            "Manufacturer Part": "TYPE-C-31-M-14",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "TYPE-C-31-M-14",
-            "puuid": "c6e42f2a77364feb95f281aad8d0b277",
-            "uuid": "9c7da88b246144a28c5dcf0e4b9bccae"
-          }
         ]
       ],
-      "updateTime": 1715974832,
+      "updateTime": 1715970021,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-17 15:40:32"
-    },
-    {
-      "uuid": "89d89ac751c129769e17ec32ff40ba0e",
-      "puuid": "6d965e1539f68c4b1d9a8185b216ab91",
-      "title": "PCB_ESP32_RelayControl",
-      "filename": "PCB_ESP32_RelayControl.json",
-      "description": "",
-      "docType": "3",
-      "master": "",
-      "thumb": "/images/thumb-default.png",
-      "components": {
-        "b9edaecb07714ba28f55fb154f740b16": 2,
-        "2ee8eb13a0124a108e622ce40c0c25a8": 7,
-        "f7fa702ab8a54416b30d407c8d150777": 2,
-        "7335dfa67b564d7988d09a073a20aa42": 1,
-        "5c17a4406d80409ea24695f47b1a8e51": 1,
-        "b55714c828764ab8ba5599ca60f132ba": 1,
-        "b60f399a7a7e41848b2be1eb49c79141": 4,
-        "40128f2916484a71b10e367662746d66": 1,
-        "dbab979e63b8476f908f2ca306a8620b": 1,
-        "02ae667aca734971be8a5f58143dd564": 1,
-        "bf1b7b0953d842979fbb5acfa9df7d18": 1,
-        "c6e42f2a77364feb95f281aad8d0b277": 1
-      },
-      "BOM": [],
-      "updateTime": 1715973971,
-      "createTime": 1715973971,
-      "histories": [],
-      "created_at": "2024-05-17 15:26:11",
-      "updated_at": "2024-05-17 15:26:11"
+      "updated_at": "2024-05-17 14:20:21"
     }
   ],
   "sort": [],
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1715974833010
+  "schfilemtime": 1715970021994
 }

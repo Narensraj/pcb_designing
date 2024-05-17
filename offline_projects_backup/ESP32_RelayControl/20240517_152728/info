@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-17 15:40:32",
+  "updated_at": "2024-05-17 15:27:28",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "5c0f396279ead4682a6cf62295a45ed9",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -32,8 +32,7 @@
         "ce10a900082d4f3790a9c39740cc0400": 2,
         "f0236a8022f64f3da5d82a1650fe24d3": 1,
         "9c7da88b246144a28c5dcf0e4b9bccae": 1,
-        "8b8f2c4b0f1a4c05b9bf99dce6e3b5cc": 1,
-        "91d89f27d61c4f52841f6a3421663727": 1
+        "8b8f2c4b0f1a4c05b9bf99dce6e3b5cc": 1
       },
       "BOM": [
         [
@@ -259,23 +258,6 @@
           }
         ],
         [
-          "150kΩ",
-          1,
-          "R0805",
-          "R5",
-          {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Manufacturer": "YAGEO(国巨)",
-            "Manufacturer Part": "RT0805FRE07150KL",
-            "Supplier Part": "C136901",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "RT0805FRE07150KL",
-            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
-            "uuid": "91d89f27d61c4f52841f6a3421663727"
-          }
-        ],
-        [
           "ESP32-S3-WROOM-1(N8R8)",
           1,
           "WIRELM-SMD_ESP32-S3-WROOM-1",
@@ -360,11 +342,11 @@
           }
         ]
       ],
-      "updateTime": 1715974832,
+      "updateTime": 1715974048,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-17 15:40:32"
+      "updated_at": "2024-05-17 15:27:28"
     },
     {
       "uuid": "89d89ac751c129769e17ec32ff40ba0e",
@@ -401,5 +383,5 @@
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1715974833010
+  "schfilemtime": 1715974048483
 }
