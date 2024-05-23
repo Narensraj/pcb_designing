@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "2e6ff64caf985d0d6cf2cae44e353c73",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
