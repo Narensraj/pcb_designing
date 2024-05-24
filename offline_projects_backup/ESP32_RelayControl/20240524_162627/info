@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-24 16:34:53",
+  "updated_at": "2024-05-24 16:26:27",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "e7c00253285cc595bcb8520bbe3a6fbf",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -199,7 +199,7 @@
           }
         ],
         [
-          "200mA Slow Fuse",
+          "FH1-200CK-B",
           1,
           "FUSE-TH_L24.8-W9.8-P22.60",
           "FH1",
@@ -216,7 +216,7 @@
           }
         ],
         [
-          "630mA Quick Fuse",
+          "630mA Fuse",
           1,
           "FUSE-TH_L24.8-W9.8-P22.60",
           "FH2",
@@ -500,11 +500,11 @@
           }
         ]
       ],
-      "updateTime": 1716582893,
+      "updateTime": 1716582387,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-24 16:34:53"
+      "updated_at": "2024-05-24 16:26:27"
     },
     {
       "uuid": "89d89ac751c129769e17ec32ff40ba0e",
@@ -543,5 +543,5 @@
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1716582893533
+  "schfilemtime": 1716582387548
 }

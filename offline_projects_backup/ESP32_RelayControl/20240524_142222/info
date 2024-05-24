@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-24 16:34:53",
+  "updated_at": "2024-05-24 14:22:22",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "be327233022a33b099208a2e0b45a59f",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -21,6 +21,7 @@
         "e230270729e945c09890c30b53563223": 2,
         "d1e6f16e2e3ef874d37365894599fcf8": 2,
         "ad2994cd0df0469192fec6832714bbc1": 1,
+        "904aa0264d514be4ac335a09f220fbd7": 1,
         "c7632824fd854bb8a8be99586db0ec54": 1,
         "e6511e13ad8f4fdea695543d9c2f44da": 1,
         "dd6e99fdd7b94bc4bef799f242c162d5": 1,
@@ -38,9 +39,7 @@
         "362fb058c454baab5197e13ccafc00b7": 2,
         "74561c7681ff4072a92e3f1a4e71da6a": 1,
         "e1d4f0ac033f479ba79cd126e7aafac6": 1,
-        "38f04e8cdd2f4fc79ff6a67141bd1ca6": 1,
-        "de55b97631754718a2071005c92bcd1c": 1,
-        "ae0e447185c649ae817ce2a11bccce21": 2
+        "38f04e8cdd2f4fc79ff6a67141bd1ca6": 1
       },
       "BOM": [
         [
@@ -49,40 +48,6 @@
           "Package",
           "Components",
           "CustomPara"
-        ],
-        [
-          "TestPoint-2.0",
-          2,
-          "TESTPOINT-2MM",
-          "3.3V,5V",
-          {
-            "Manufacturer": "",
-            "Manufacturer Part": "",
-            "Supplier Part": "",
-            "Supplier": "",
-            "link": "",
-            "Contributor": "Zrefer INC",
-            "spiceSymbolName": "TestPoint-2.0",
-            "puuid": "a79c603f8fe24431b3d423e478cd7e80",
-            "uuid": "34a08bd4f6254e23a9c3aa7d8efcb991"
-          }
-        ],
-        [
-          "TSA063G60-250",
-          2,
-          "KEY-SMD_4P-L6.1-W6.1-P4.50-LS9.0",
-          "BOOT,RESET",
-          {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Supplier Part": "C294566",
-            "Manufacturer": "BRIGHT(博瑞泰)",
-            "Manufacturer Part": "TSA063G60-250",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "TSA063G60-250",
-            "puuid": "f7fa702ab8a54416b30d407c8d150777",
-            "uuid": "ce10a900082d4f3790a9c39740cc0400"
-          }
         ],
         [
           "220uF",
@@ -199,37 +164,20 @@
           }
         ],
         [
-          "200mA Slow Fuse",
-          1,
-          "FUSE-TH_L24.8-W9.8-P22.60",
-          "FH1",
+          "TSA063G60-250",
+          2,
+          "KEY-SMD_4P-L6.1-W6.1-P4.50-LS9.0",
+          "KEY1,KEY2",
           {
             "Contributor": "LCSC",
             "Supplier": "LCSC",
-            "Supplier Part": "C268205",
-            "Manufacturer": "HONGJU(宏聚)",
-            "Manufacturer Part": "FH1-200CK-B",
+            "Supplier Part": "C294566",
+            "Manufacturer": "BRIGHT(博瑞泰)",
+            "Manufacturer Part": "TSA063G60-250",
             "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "FH1-200CK-B",
-            "puuid": "429c841a722347ffae09e42b4089bd33",
-            "uuid": "ae0e447185c649ae817ce2a11bccce21"
-          }
-        ],
-        [
-          "630mA Quick Fuse",
-          1,
-          "FUSE-TH_L24.8-W9.8-P22.60",
-          "FH2",
-          {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Supplier Part": "C268205",
-            "Manufacturer": "HONGJU(宏聚)",
-            "Manufacturer Part": "FH1-200CK-B",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "FH1-200CK-B",
-            "puuid": "429c841a722347ffae09e42b4089bd33",
-            "uuid": "ae0e447185c649ae817ce2a11bccce21"
+            "spiceSymbolName": "TSA063G60-250",
+            "puuid": "f7fa702ab8a54416b30d407c8d150777",
+            "uuid": "ce10a900082d4f3790a9c39740cc0400"
           }
         ],
         [
@@ -317,6 +265,23 @@
           }
         ],
         [
+          "100Ω",
+          1,
+          "R0805",
+          "R1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C844936",
+            "Manufacturer": "VISHAY(威世)",
+            "Manufacturer Part": "CRCW0805100RFKEA",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "CRCW0805100RFKEA",
+            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
+            "uuid": "904aa0264d514be4ac335a09f220fbd7"
+          }
+        ],
+        [
           "60.4Ω",
           1,
           "R0805",
@@ -399,20 +364,20 @@
           }
         ],
         [
-          "90.9Ω",
-          1,
-          "R0805",
-          "R12",
+          "TestPoint-2.0",
+          2,
+          "TESTPOINT-2MM",
+          "TP1,TP2",
           {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Supplier Part": "C229045",
-            "Manufacturer": "YAGEO(国巨)",
-            "Manufacturer Part": "AC0805FR-0790R9L",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "AC0805FR-0790R9L",
-            "puuid": "b60f399a7a7e41848b2be1eb49c79141",
-            "uuid": "de55b97631754718a2071005c92bcd1c"
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "Zrefer INC",
+            "spiceSymbolName": "TestPoint-2.0",
+            "puuid": "a79c603f8fe24431b3d423e478cd7e80",
+            "uuid": "34a08bd4f6254e23a9c3aa7d8efcb991"
           }
         ],
         [
@@ -500,11 +465,11 @@
           }
         ]
       ],
-      "updateTime": 1716582893,
+      "updateTime": 1716574942,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-24 16:34:53"
+      "updated_at": "2024-05-24 14:22:22"
     },
     {
       "uuid": "89d89ac751c129769e17ec32ff40ba0e",
@@ -543,5 +508,5 @@
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1716582893533
+  "schfilemtime": 1716574942978
 }

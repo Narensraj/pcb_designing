@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-24 16:34:53",
+  "updated_at": "2024-05-24 14:30:34",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "1d04a9835ac7b85fa087b661f081f6b7",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -39,8 +39,7 @@
         "74561c7681ff4072a92e3f1a4e71da6a": 1,
         "e1d4f0ac033f479ba79cd126e7aafac6": 1,
         "38f04e8cdd2f4fc79ff6a67141bd1ca6": 1,
-        "de55b97631754718a2071005c92bcd1c": 1,
-        "ae0e447185c649ae817ce2a11bccce21": 2
+        "de55b97631754718a2071005c92bcd1c": 1
       },
       "BOM": [
         [
@@ -49,40 +48,6 @@
           "Package",
           "Components",
           "CustomPara"
-        ],
-        [
-          "TestPoint-2.0",
-          2,
-          "TESTPOINT-2MM",
-          "3.3V,5V",
-          {
-            "Manufacturer": "",
-            "Manufacturer Part": "",
-            "Supplier Part": "",
-            "Supplier": "",
-            "link": "",
-            "Contributor": "Zrefer INC",
-            "spiceSymbolName": "TestPoint-2.0",
-            "puuid": "a79c603f8fe24431b3d423e478cd7e80",
-            "uuid": "34a08bd4f6254e23a9c3aa7d8efcb991"
-          }
-        ],
-        [
-          "TSA063G60-250",
-          2,
-          "KEY-SMD_4P-L6.1-W6.1-P4.50-LS9.0",
-          "BOOT,RESET",
-          {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Supplier Part": "C294566",
-            "Manufacturer": "BRIGHT(博瑞泰)",
-            "Manufacturer Part": "TSA063G60-250",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "TSA063G60-250",
-            "puuid": "f7fa702ab8a54416b30d407c8d150777",
-            "uuid": "ce10a900082d4f3790a9c39740cc0400"
-          }
         ],
         [
           "220uF",
@@ -199,37 +164,20 @@
           }
         ],
         [
-          "200mA Slow Fuse",
-          1,
-          "FUSE-TH_L24.8-W9.8-P22.60",
-          "FH1",
+          "TSA063G60-250",
+          2,
+          "KEY-SMD_4P-L6.1-W6.1-P4.50-LS9.0",
+          "KEY1,KEY2",
           {
             "Contributor": "LCSC",
             "Supplier": "LCSC",
-            "Supplier Part": "C268205",
-            "Manufacturer": "HONGJU(宏聚)",
-            "Manufacturer Part": "FH1-200CK-B",
+            "Supplier Part": "C294566",
+            "Manufacturer": "BRIGHT(博瑞泰)",
+            "Manufacturer Part": "TSA063G60-250",
             "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "FH1-200CK-B",
-            "puuid": "429c841a722347ffae09e42b4089bd33",
-            "uuid": "ae0e447185c649ae817ce2a11bccce21"
-          }
-        ],
-        [
-          "630mA Quick Fuse",
-          1,
-          "FUSE-TH_L24.8-W9.8-P22.60",
-          "FH2",
-          {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Supplier Part": "C268205",
-            "Manufacturer": "HONGJU(宏聚)",
-            "Manufacturer Part": "FH1-200CK-B",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "FH1-200CK-B",
-            "puuid": "429c841a722347ffae09e42b4089bd33",
-            "uuid": "ae0e447185c649ae817ce2a11bccce21"
+            "spiceSymbolName": "TSA063G60-250",
+            "puuid": "f7fa702ab8a54416b30d407c8d150777",
+            "uuid": "ce10a900082d4f3790a9c39740cc0400"
           }
         ],
         [
@@ -416,6 +364,23 @@
           }
         ],
         [
+          "TestPoint-2.0",
+          2,
+          "TESTPOINT-2MM",
+          "TP1,TP2",
+          {
+            "Manufacturer": "",
+            "Manufacturer Part": "",
+            "Supplier Part": "",
+            "Supplier": "",
+            "link": "",
+            "Contributor": "Zrefer INC",
+            "spiceSymbolName": "TestPoint-2.0",
+            "puuid": "a79c603f8fe24431b3d423e478cd7e80",
+            "uuid": "34a08bd4f6254e23a9c3aa7d8efcb991"
+          }
+        ],
+        [
           "ESP32-S3-WROOM-1(N8R8)",
           1,
           "WIRELM-SMD_ESP32-S3-WROOM-1",
@@ -500,11 +465,11 @@
           }
         ]
       ],
-      "updateTime": 1716582893,
+      "updateTime": 1716575434,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-24 16:34:53"
+      "updated_at": "2024-05-24 14:30:34"
     },
     {
       "uuid": "89d89ac751c129769e17ec32ff40ba0e",
@@ -543,5 +508,5 @@
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1716582893533
+  "schfilemtime": 1716575434405
 }
