@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-27 11:29:41",
+  "updated_at": "2024-05-27 10:07:04",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "b6d8a07b327f72a628ade985fd238a99",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -22,7 +22,7 @@
         "d1e6f16e2e3ef874d37365894599fcf8": 2,
         "ad2994cd0df0469192fec6832714bbc1": 1,
         "dd6e99fdd7b94bc4bef799f242c162d5": 2,
-        "f6b978522bc90b5f288e1b3b8ab2a02c": 4,
+        "f6b978522bc90b5f288e1b3b8ab2a02c": 3,
         "ffabf8540ef208052b657a8bd30a1b96": 1,
         "c01451418699701ce89606f410089b9e": 3,
         "59276ed4d85446239425872e59ab46d6": 1,
@@ -33,6 +33,7 @@
         "362fb058c454baab5197e13ccafc00b7": 2,
         "e1d4f0ac033f479ba79cd126e7aafac6": 1,
         "38f04e8cdd2f4fc79ff6a67141bd1ca6": 1,
+        "ae0e447185c649ae817ce2a11bccce21": 2,
         "a1a917159bf0428cb774136ee5fb1a08": 1,
         "6f093c4a744841e08d31f3bc59255084": 1,
         "c00ed0d6111c4ad4aecd05b557e7c9b2": 1,
@@ -42,12 +43,10 @@
         "2b60fe67e4d14a159c71d0cedc4b6997": 1,
         "8a97126da41a4c4fa639b0cc214e1c60": 2,
         "478f4a2e72994bbda115b38d54c662fc": 1,
+        "9938d187a217410b9da3aa34461b4a4d": 1,
         "c75a53340b0c1d243703ba71cd75e9c8": 1,
         "9c7da88b246144a28c5dcf0e4b9bccae": 1,
-        "6ba5e94a9d0b4a409f7f6be2036cb399": 2,
-        "3eca2e89d67b4fe5984cc741b1d2957c": 1,
-        "886484ea45ac3065efddb2376cf997f0": 1,
-        "be10039b9bb14c3ea328f441e72e2c01": 1
+        "6ba5e94a9d0b4a409f7f6be2036cb399": 2
       },
       "BOM": [
         [
@@ -126,9 +125,9 @@
         ],
         [
           "100nF",
-          4,
+          3,
           "C0805",
-          "C5,C8,C12,C13",
+          "C5,C8,C12",
           {
             "Supplier": "LCSC",
             "Manufacturer": "FH(风华)",
@@ -256,36 +255,37 @@
           }
         ],
         [
-          "B5819W",
+          "200mA Slow Fuse",
           1,
-          "SOD-123_L2.8-W1.8-LS3.7-RD",
-          "D3",
-          {
-            "Supplier": "LCSC",
-            "Manufacturer Part": "B5819W",
-            "Manufacturer": "MDD",
-            "Supplier Part": "C64885",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "B5819W",
-            "puuid": "60a676d313ae48718a81c380b73dfe4f",
-            "uuid": "886484ea45ac3065efddb2376cf997f0"
-          }
-        ],
-        [
-          "0805L075WR",
-          1,
-          "F0805",
-          "F1",
+          "FUSE-TH_L24.8-W9.8-P22.60",
+          "FH1",
           {
             "Contributor": "LCSC",
             "Supplier": "LCSC",
-            "Supplier Part": "C151146",
-            "Manufacturer": "Littelfuse(美国力特)",
-            "Manufacturer Part": "0805L075WR",
+            "Supplier Part": "C268205",
+            "Manufacturer": "HONGJU(宏聚)",
+            "Manufacturer Part": "FH1-200CK-B",
             "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "0805L075WR",
-            "puuid": "daefbe13f13c4f838192caad5e2aecac",
-            "uuid": "be10039b9bb14c3ea328f441e72e2c01"
+            "spiceSymbolName": "FH1-200CK-B",
+            "puuid": "429c841a722347ffae09e42b4089bd33",
+            "uuid": "ae0e447185c649ae817ce2a11bccce21"
+          }
+        ],
+        [
+          "630mA Quick Fuse",
+          1,
+          "FUSE-TH_L24.8-W9.8-P22.60",
+          "FH2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C268205",
+            "Manufacturer": "HONGJU(宏聚)",
+            "Manufacturer Part": "FH1-200CK-B",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "FH1-200CK-B",
+            "puuid": "429c841a722347ffae09e42b4089bd33",
+            "uuid": "ae0e447185c649ae817ce2a11bccce21"
           }
         ],
         [
@@ -572,19 +572,20 @@
           }
         ],
         [
-          "AO3401A",
+          "RT9080-33GJ5",
           1,
-          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
-          "U7",
+          "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL",
+          "U6",
           {
-            "Contributor": "lcsc",
+            "Contributor": "LCSC",
             "Supplier": "LCSC",
-            "Supplier Part": "C5380686",
-            "Manufacturer": "FUXINSEMI(富芯森美)",
-            "Manufacturer Part": "AO3401A",
-            "spiceSymbolName": "AO3401A_C5380686",
-            "puuid": "bade90667a6e4731855e9a223387b8a6",
-            "uuid": "3eca2e89d67b4fe5984cc741b1d2957c"
+            "Supplier Part": "C841192",
+            "Manufacturer": "RICHTEK(立锜)",
+            "Manufacturer Part": "RT9080-33GJ5",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "RT9080-33GJ5",
+            "puuid": "43583875b34d432e942198f906796c56",
+            "uuid": "9938d187a217410b9da3aa34461b4a4d"
           }
         ],
         [
@@ -605,11 +606,11 @@
           }
         ]
       ],
-      "updateTime": 1716823781,
+      "updateTime": 1716818824,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-27 11:29:41"
+      "updated_at": "2024-05-27 10:07:04"
     },
     {
       "uuid": "89d89ac751c129769e17ec32ff40ba0e",
@@ -648,5 +649,5 @@
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1716823781179
+  "schfilemtime": 1716818824648
 }

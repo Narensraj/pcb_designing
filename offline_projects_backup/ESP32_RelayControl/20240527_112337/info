@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-27 11:29:41",
+  "updated_at": "2024-05-27 11:23:37",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "376596b4abe7406a4324732c95c532a9",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -46,8 +46,7 @@
         "9c7da88b246144a28c5dcf0e4b9bccae": 1,
         "6ba5e94a9d0b4a409f7f6be2036cb399": 2,
         "3eca2e89d67b4fe5984cc741b1d2957c": 1,
-        "886484ea45ac3065efddb2376cf997f0": 1,
-        "be10039b9bb14c3ea328f441e72e2c01": 1
+        "886484ea45ac3065efddb2376cf997f0": 1
       },
       "BOM": [
         [
@@ -269,23 +268,6 @@
             "spiceSymbolName": "B5819W",
             "puuid": "60a676d313ae48718a81c380b73dfe4f",
             "uuid": "886484ea45ac3065efddb2376cf997f0"
-          }
-        ],
-        [
-          "0805L075WR",
-          1,
-          "F0805",
-          "F1",
-          {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Supplier Part": "C151146",
-            "Manufacturer": "Littelfuse(美国力特)",
-            "Manufacturer Part": "0805L075WR",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "0805L075WR",
-            "puuid": "daefbe13f13c4f838192caad5e2aecac",
-            "uuid": "be10039b9bb14c3ea328f441e72e2c01"
           }
         ],
         [
@@ -605,11 +587,11 @@
           }
         ]
       ],
-      "updateTime": 1716823781,
+      "updateTime": 1716823417,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-27 11:29:41"
+      "updated_at": "2024-05-27 11:23:37"
     },
     {
       "uuid": "89d89ac751c129769e17ec32ff40ba0e",
@@ -648,5 +630,5 @@
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1716823781179
+  "schfilemtime": 1716823417896
 }

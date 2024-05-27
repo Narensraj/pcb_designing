@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-27 11:29:41",
+  "updated_at": "2024-05-27 11:04:59",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "4de7664c0aea3b781f0a45ca85f26894",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -42,12 +42,13 @@
         "2b60fe67e4d14a159c71d0cedc4b6997": 1,
         "8a97126da41a4c4fa639b0cc214e1c60": 2,
         "478f4a2e72994bbda115b38d54c662fc": 1,
+        "9938d187a217410b9da3aa34461b4a4d": 1,
         "c75a53340b0c1d243703ba71cd75e9c8": 1,
         "9c7da88b246144a28c5dcf0e4b9bccae": 1,
         "6ba5e94a9d0b4a409f7f6be2036cb399": 2,
+        "2a3a68ad7b554d58b61e89b0281571fd": 1,
         "3eca2e89d67b4fe5984cc741b1d2957c": 1,
-        "886484ea45ac3065efddb2376cf997f0": 1,
-        "be10039b9bb14c3ea328f441e72e2c01": 1
+        "886484ea45ac3065efddb2376cf997f0": 1
       },
       "BOM": [
         [
@@ -272,20 +273,18 @@
           }
         ],
         [
-          "0805L075WR",
+          "Polyfuse",
           1,
-          "F0805",
+          "",
           "F1",
           {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Supplier Part": "C151146",
-            "Manufacturer": "Littelfuse(美国力特)",
-            "Manufacturer Part": "0805L075WR",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "0805L075WR",
-            "puuid": "daefbe13f13c4f838192caad5e2aecac",
-            "uuid": "be10039b9bb14c3ea328f441e72e2c01"
+            "description": "",
+            "Contributor": "KiCAD",
+            "license": "https://www.gnu.org/licenses/lgpl-2.1.html",
+            "spiceSymbolName": "Polyfuse",
+            "Manufacturer Part": "",
+            "puuid": "",
+            "uuid": "2a3a68ad7b554d58b61e89b0281571fd"
           }
         ],
         [
@@ -572,6 +571,23 @@
           }
         ],
         [
+          "RT9080-33GJ5",
+          1,
+          "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL",
+          "U6",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C841192",
+            "Manufacturer": "RICHTEK(立锜)",
+            "Manufacturer Part": "RT9080-33GJ5",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "RT9080-33GJ5",
+            "puuid": "43583875b34d432e942198f906796c56",
+            "uuid": "9938d187a217410b9da3aa34461b4a4d"
+          }
+        ],
+        [
           "AO3401A",
           1,
           "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
@@ -605,11 +621,11 @@
           }
         ]
       ],
-      "updateTime": 1716823781,
+      "updateTime": 1716822299,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-27 11:29:41"
+      "updated_at": "2024-05-27 11:04:59"
     },
     {
       "uuid": "89d89ac751c129769e17ec32ff40ba0e",
@@ -648,5 +664,5 @@
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1716823781179
+  "schfilemtime": 1716822299669
 }
