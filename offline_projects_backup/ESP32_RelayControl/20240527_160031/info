@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-27 16:12:17",
+  "updated_at": "2024-05-27 16:00:31",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "47dd044590952752967d6065ff1ea98e",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -36,11 +36,11 @@
         "a1a917159bf0428cb774136ee5fb1a08": 1,
         "6f093c4a744841e08d31f3bc59255084": 1,
         "c00ed0d6111c4ad4aecd05b557e7c9b2": 1,
-        "1b316eebcc144d65a3bd38e478906702": 1,
+        "1b316eebcc144d65a3bd38e478906702": 2,
         "8916986065554e6ebe16f19d8b7a7871": 1,
         "48a826fe8c8942a489c9d9c2dc35c638": 1,
         "2b60fe67e4d14a159c71d0cedc4b6997": 1,
-        "8a97126da41a4c4fa639b0cc214e1c60": 2,
+        "8a97126da41a4c4fa639b0cc214e1c60": 3,
         "478f4a2e72994bbda115b38d54c662fc": 1,
         "c75a53340b0c1d243703ba71cd75e9c8": 1,
         "9c7da88b246144a28c5dcf0e4b9bccae": 1,
@@ -477,9 +477,9 @@
         ],
         [
           "1kΩ",
-          2,
+          3,
           "R0805",
-          "R12,R13",
+          "R12,R13,R15",
           {
             "Contributor": "LCSC",
             "Supplier": "LCSC",
@@ -511,9 +511,9 @@
         ],
         [
           "SZYY0805YG",
-          1,
+          2,
           "LED0805-R-RD_GREEN",
-          "RX",
+          "RX,RX1",
           {
             "Contributor": "LCSC",
             "Supplier": "LCSC",
@@ -712,11 +712,11 @@
           }
         ]
       ],
-      "updateTime": 1716840737,
+      "updateTime": 1716840031,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-27 16:12:17"
+      "updated_at": "2024-05-27 16:00:31"
     },
     {
       "uuid": "89d89ac751c129769e17ec32ff40ba0e",
@@ -762,5 +762,5 @@
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1716840738012
+  "schfilemtime": 1716840031789
 }
