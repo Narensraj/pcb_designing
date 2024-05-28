@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-28 16:36:36",
+  "updated_at": "2024-05-28 16:12:40",
   "stick": "",
   "documents": [
     {
@@ -60,8 +60,7 @@
         "00179746f0a04b29a851087518be3a72": 2,
         "fcbb08119a2049768a542b3ba865be88": 2,
         "90cb1218d1e54172a089ec7523cfa48d": 1,
-        "747a714111114f79a225d562f8e231d0": 4,
-        "04b7d8073e854006b41709a96b7a21a9": 1
+        "747a714111114f79a225d562f8e231d0": 4
       },
       "BOM": [
         [
@@ -820,23 +819,6 @@
           }
         ],
         [
-          "TYPE-C 16PIN 2MD(073)",
-          1,
-          "USB-C-SMD_TYPE-C-6PIN-2MD-073",
-          "USB1",
-          {
-            "Contributor": "LCSC",
-            "Supplier": "LCSC",
-            "Supplier Part": "C2765186",
-            "Manufacturer": "SHOU HAN(首韩)",
-            "Manufacturer Part": "TYPE-C 16PIN 2MD(073)",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "TYPE-C 16PIN 2MD(073)",
-            "puuid": "5a7e9ad3682242f88608293ce637ea1d",
-            "uuid": "04b7d8073e854006b41709a96b7a21a9"
-          }
-        ],
-        [
           "TYPE-C-31-M-14",
           1,
           "USB-C-SMD_12P-P0.50-H-F_TYPE-C-31-M-14",
@@ -854,11 +836,11 @@
           }
         ]
       ],
-      "updateTime": 1716928506,
+      "updateTime": 1716916963,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-28 16:35:06"
+      "updated_at": "2024-05-28 13:22:43"
     },
     {
       "uuid": "a37674ed4f30844d9e5685052f75b9ff",
@@ -870,7 +852,6 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "5a7e9ad3682242f88608293ce637ea1d": 1,
         "a79c603f8fe24431b3d423e478cd7e80": 2,
         "2ee8eb13a0124a108e622ce40c0c25a8": 11,
         "b9edaecb07714ba28f55fb154f740b16": 2,
@@ -903,16 +884,16 @@
         "e38ba667dc5941198be019a72d5f445e": 4
       },
       "BOM": [],
-      "updateTime": 1716928596,
+      "updateTime": 1716927160,
       "createTime": 1716915334,
       "histories": [],
       "created_at": "2024-05-28 12:55:34",
-      "updated_at": "2024-05-28 16:36:36"
+      "updated_at": "2024-05-28 16:12:40"
     }
   ],
   "sort": [],
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1716928506512
+  "schfilemtime": 1716916963239
 }
