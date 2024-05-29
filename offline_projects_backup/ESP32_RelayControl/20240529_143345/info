@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-29 16:55:56",
+  "updated_at": "2024-05-29 14:33:45",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "b3b96e71e1fc4620ec0f3c5c538baa12",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -873,11 +873,11 @@
           }
         ]
       ],
-      "updateTime": 1717015612,
+      "updateTime": 1717007625,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-29 16:46:52"
+      "updated_at": "2024-05-29 14:33:45"
     },
     {
       "uuid": "a37674ed4f30844d9e5685052f75b9ff",
@@ -904,6 +904,7 @@
         "b9edaecb07714ba28f55fb154f740b16": 2,
         "1857a970000b4f40a8e3ceb5daa252c0": 4,
         "dd3cfd4941c4479cb7f2c598e6fde06c": 1,
+        "7597b0eedf8f403482aef66e7268aad1": 1,
         "daefbe13f13c4f838192caad5e2aecac": 1,
         "2a4e7183c3704694960849254619c081": 5,
         "2d4e3c5b6f34484aa8c06f4f99568687": 4,
@@ -920,20 +921,19 @@
         "66bc2b20fe8d4608a37166d19dc13366": 1,
         "02ae667aca734971be8a5f58143dd564": 1,
         "89f5280378144b629de4998ef974b6b8": 2,
-        "524261535adc40ac90a9dc60986604e6": 2,
-        "7597b0eedf8f403482aef66e7268aad1": 1
+        "524261535adc40ac90a9dc60986604e6": 2
       },
       "BOM": [],
-      "updateTime": 1717016156,
+      "updateTime": 1717007028,
       "createTime": 1716915334,
       "histories": [],
       "created_at": "2024-05-28 12:55:34",
-      "updated_at": "2024-05-29 16:55:56"
+      "updated_at": "2024-05-29 14:23:48"
     }
   ],
   "sort": [],
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1717015612089
+  "schfilemtime": 1717007625445
 }
