@@ -1,8 +1,8 @@
-# Power Supply
+# ESP32 Relay Board
 
 ## Overview
 
-This repository contains the design and documentation for a power supply system comprising various components such as AC to DC converter, voltage regulator, microcontroller, USB to UART interface, relay control, RGB LED control, and miscellaneous components. 
+This repository contains the design and documentation for an ESP32 relay board created using EasyEDA. It comprises various components such as AC to DC converter, voltage regulator, ESP32 microcontroller, USB to UART interface, relay control, RGB LED control, and miscellaneous components.
 
 ## Components
 
@@ -52,4 +52,10 @@ This repository contains the design and documentation for a power supply system 
 - **Test Points:** Provided for 3.3V, 5V, and ground for easy debugging
 - **Indicator LEDs:** With current limiting resistors to indicate power status and other signals
 - **Mounting Holes:** For securing the PCB
+
+## License
+
+This project is licensed under no-one you can freely use the schematics and pcb layout.
+
+And remember, when life throws you a relay, just switch it on and keep the circuit flowing! 😉🔌
 
