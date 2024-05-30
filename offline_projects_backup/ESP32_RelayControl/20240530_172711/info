@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-05-30 17:28:08",
+  "updated_at": "2024-05-30 17:27:11",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "58ef1e1df716d34918eb68a35a36e1a0",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -824,11 +824,11 @@
           }
         ]
       ],
-      "updateTime": 1717104488,
+      "updateTime": 1717104431,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-05-30 17:28:08"
+      "updated_at": "2024-05-30 17:27:11"
     },
     {
       "uuid": "a37674ed4f30844d9e5685052f75b9ff",
@@ -888,5 +888,5 @@
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1717104488370
+  "schfilemtime": 1717104431324
 }
