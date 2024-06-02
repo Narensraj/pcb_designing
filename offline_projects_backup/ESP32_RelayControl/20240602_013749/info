@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-06-02 01:56:07",
+  "updated_at": "2024-06-02 01:37:49",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "bb75cb94ab04dbad4cb812c84eb63ca3",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -52,7 +52,7 @@
         "f347913e4722435198997d0a97d2ed1f": 3,
         "5d0da41885f04a3fb566dc9b9c06fdaf": 1,
         "475d7534425d4292bcc239c21a9ad63d": 4,
-        "9c015dc522b94b1db4f057002abddb46": 2,
+        "9c015dc522b94b1db4f057002abddb46": 3,
         "ce6d7d264c014b7b9fef830feff536f8": 1,
         "736876f24b5b418d94baa3b17df427eb": 1,
         "2ec054adbf6c4f1da6188d20ce189495": 1,
@@ -386,6 +386,22 @@
           }
         ],
         [
+          "0Ω",
+          3,
+          "R0402",
+          "R1,R28,R31",
+          {
+            "Supplier": "LCSC",
+            "Manufacturer": "YAGEO(国巨)",
+            "Manufacturer Part": "RC0402FR-070RL",
+            "Supplier Part": "C106231",
+            "JLCPCB Part Class": "Extended Part",
+            "spiceSymbolName": "RC0402FR-070RL",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "9c015dc522b94b1db4f057002abddb46"
+          }
+        ],
+        [
           "4.7kΩ",
           12,
           "R0805",
@@ -500,22 +516,6 @@
             "spiceSymbolName": "RMC08051K5%N",
             "puuid": "b60f399a7a7e41848b2be1eb49c79141",
             "uuid": "8a97126da41a4c4fa639b0cc214e1c60"
-          }
-        ],
-        [
-          "0Ω",
-          2,
-          "R0402",
-          "R28,R31",
-          {
-            "Supplier": "LCSC",
-            "Manufacturer": "YAGEO(国巨)",
-            "Manufacturer Part": "RC0402FR-070RL",
-            "Supplier Part": "C106231",
-            "JLCPCB Part Class": "Extended Part",
-            "spiceSymbolName": "RC0402FR-070RL",
-            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
-            "uuid": "9c015dc522b94b1db4f057002abddb46"
           }
         ],
         [
@@ -823,11 +823,11 @@
           }
         ]
       ],
-      "updateTime": 1717306913,
+      "updateTime": 1717306669,
       "createTime": 1715296757,
       "histories": [],
       "created_at": "2024-05-09 19:19:17",
-      "updated_at": "2024-06-02 01:41:53"
+      "updated_at": "2024-06-02 01:37:49"
     },
     {
       "uuid": "a37674ed4f30844d9e5685052f75b9ff",
@@ -839,7 +839,6 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "b111ea66e8384780b5ead25874f3491d": 1,
         "82605a93a0be4c79a27d82f67f2aca29": 1,
         "1c51995915474e91a09338fc0245f151": 4,
         "5a7e9ad3682242f88608293ce637ea1d": 1,
@@ -861,7 +860,7 @@
         "bade90667a6e4731855e9a223387b8a6": 2,
         "1fb6146406a34819a86e33d73e7677db": 1,
         "b60f399a7a7e41848b2be1eb49c79141": 24,
-        "fafd024f554e426eb74cf4a204aa88b0": 8,
+        "fafd024f554e426eb74cf4a204aa88b0": 9,
         "e9cb1663613c46dfa133c4b24eed6a8a": 2,
         "91564ac4c1cc40e9962490f6deee7c7c": 1,
         "daefbe13f13c4f838192caad5e2aecac": 1,
@@ -869,6 +868,7 @@
         "8cc25242a8d54a078b2ec22ea1299752": 1,
         "2b41f513c64548c79b5a32957e0561bb": 1,
         "2278810e3ec34c089b6a38ee87d430b2": 1,
+        "b111ea66e8384780b5ead25874f3491d": 1,
         "89f5280378144b629de4998ef974b6b8": 2,
         "cfd5203a63ba4bd4b32f1d0bee0a79a2": 1,
         "cd247a287bee4d128b769b3f247bc8c3": 1,
@@ -876,16 +876,16 @@
         "c5533f37e54f4bd0a361fb90c38aa932": 1
       },
       "BOM": [],
-      "updateTime": 1717307767,
+      "updateTime": 1717306574,
       "createTime": 1716915334,
       "histories": [],
       "created_at": "2024-05-28 12:55:34",
-      "updated_at": "2024-06-02 01:56:07"
+      "updated_at": "2024-06-02 01:36:14"
     }
   ],
   "sort": [],
   "title": "ESP32_RelayControl",
   "foldername": "ESP32_RelayControl",
   "schfilename": "ESP32_RelayControl.json",
-  "schfilemtime": 1717306913066
+  "schfilemtime": 1717306669109
 }

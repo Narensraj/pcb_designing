@@ -4,7 +4,7 @@
   "name": "ESP32_RelayControl",
   "content": "",
   "created_at": "2024-05-09 19:19:17",
-  "updated_at": "2024-06-02 01:56:07",
+  "updated_at": "2024-06-02 01:41:53",
   "stick": "",
   "documents": [
     {
@@ -12,7 +12,7 @@
       "title": "ESP32_schematic",
       "description": "",
       "docType": "1",
-      "master": "",
+      "master": "6ffd36c62ab0ea46e70fb5f13579470b",
       "thumb": "/images/thumb-default.png",
       "components": {
         "9319c9c0b56747d1a6eed43bdd130f3e": 1,
@@ -861,7 +861,7 @@
         "bade90667a6e4731855e9a223387b8a6": 2,
         "1fb6146406a34819a86e33d73e7677db": 1,
         "b60f399a7a7e41848b2be1eb49c79141": 24,
-        "fafd024f554e426eb74cf4a204aa88b0": 8,
+        "fafd024f554e426eb74cf4a204aa88b0": 9,
         "e9cb1663613c46dfa133c4b24eed6a8a": 2,
         "91564ac4c1cc40e9962490f6deee7c7c": 1,
         "daefbe13f13c4f838192caad5e2aecac": 1,
@@ -876,11 +876,11 @@
         "c5533f37e54f4bd0a361fb90c38aa932": 1
       },
       "BOM": [],
-      "updateTime": 1717307767,
+      "updateTime": 1717306896,
       "createTime": 1716915334,
       "histories": [],
       "created_at": "2024-05-28 12:55:34",
-      "updated_at": "2024-06-02 01:56:07"
+      "updated_at": "2024-06-02 01:41:36"
     }
   ],
   "sort": [],
