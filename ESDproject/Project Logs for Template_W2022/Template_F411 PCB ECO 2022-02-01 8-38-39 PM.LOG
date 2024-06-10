@@ -1,0 +1,432 @@
+Added Component: Designator=C1(CAPC2012X09M)
+Add component (AddParameter): Name = "MPN"; Value = "C0805C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CAP-X7R-.1uF-50V-±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "399-1170-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/C0805C104K5RACTU/399-1170-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ".1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WV"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC2012X09M)
+Add component (AddParameter): Name = "MPN"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CAP-X7R-.1uF-50V-±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/C0805C104J5RACTU/399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ".1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WV"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPACITOR_5MM)
+Add component (AddParameter): Name = "Diameter"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "UWX1V100MCL1GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Cap Polar-10uF-35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "493-2117-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Ripple Current"; Value = "29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tan Theta"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/UWX1V100MCL1GB/493-2117-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPACITOR_5MM)
+Add component (AddParameter): Name = "Diameter"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "UWX1V100MCL1GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Cap Polar-10uF-35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "493-2117-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Ripple Current"; Value = "29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tan Theta"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/UWX1V100MCL1GB/493-2117-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC2012X09M)
+Add component (AddParameter): Name = "MPN"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CAP-X7R-.1uF-50V-±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/C0805C104J5RACTU/399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ".1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WV"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC2012X09M)
+Add component (AddParameter): Name = "MPN"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CAP-X7R-.1uF-50V-±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/C0805C104J5RACTU/399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ".1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WV"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPC2012X09M)
+Add component (AddParameter): Name = "MPN"; Value = "C0805C330J5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CAP-COG-33pF-50V-±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "399-1115-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "COG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/C0805C330J5GACTU/399-1115-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WV"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC2012X09M)
+Add component (AddParameter): Name = "MPN"; Value = "C0805C330J5GACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CAP-COG-33pF-50V-±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "399-1115-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "COG"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/C0805C330J5GACTU/399-1115-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "33pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WV"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAPACITOR_5MM)
+Add component (AddParameter): Name = "Diameter"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Leakage Current"; Value = "3.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "UWX1V100MCL1GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Cap Polar-10uF-35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "493-2117-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Ripple Current"; Value = "29"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tan Theta"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/UWX1V100MCL1GB/493-2117-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "35V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC2012X09M)
+Add component (AddParameter): Name = "MPN"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CAP-X7R-.1uF-50V-±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/C0805C104J5RACTU/399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ".1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WV"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC2012X09M)
+Add component (AddParameter): Name = "MPN"; Value = "C0805C104J5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CAP-X7R-.1uF-50V-±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/C0805C104J5RACTU/399-1171-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ".1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WV"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC2012X09M)
+Add component (AddParameter): Name = "MPN"; Value = "C0805C221K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "CAP-X7R-220pF-50V-±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "399-1138-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/C0805C221K5RACTU/399-1138-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "220pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WV"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DIOM4326X23M)
+Add component (AddParameter): Name = "MPN"; Value = "B240A-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "B240A-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/B240A-13-F/B240A-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=D2(DIOM4326X23M)
+Add component (AddParameter): Name = "MPN"; Value = "B240A-13-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "B240A-FDICT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/B240A-13-F/B240A-FDICT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=DS1(OLED_RGB_0.95_96x64_Waveshare)
+Add component (AddParameter): Name = "MPN"; Value = "PPPC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "S7041-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.digikey.ca/en/products/detail/sullins-connector-solutions/PPPC081LFBN-RC/810180"; VariantName = "[No Variations]"
+Added Component: Designator=J1(MOLX-67503-1020_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/675031020_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Mini USB Connector, SMT, Righer Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "67503-1020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "67503-1020"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal Pitch"; Value = "0.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=P1(TYCO_282841_2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "282841-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "A98342-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/282841-2/A98342-ND/1136740"; VariantName = "[No Variations]"
+Added Component: Designator=P2(MOLEX_22-11-2062)
+Add component (AddParameter): Name = "MPN"; Value = "0022112062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "WM2704-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/0022112062/WM2704-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P3(MOLEX_22-11-2062)
+Add component (AddParameter): Name = "MPN"; Value = "0022112062"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "WM2704-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/0022112062/WM2704-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X6)
+Add component (AddParameter): Name = "MPN"; Value = "PEC06SFAN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "S1212E-06-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/PEC06SFAN/S1212E-06-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P5(TYCO_282841_2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "282841-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "A98342-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/282841-2/A98342-ND/1136740"; VariantName = "[No Variations]"
+Added Component: Designator=P6(MOLEX-22-11-2042)
+Add component (AddParameter): Name = "MPN"; Value = "0022112042"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "WM2702-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/0022112042/WM2702-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P7(PPPC192LFBN-RC)
+Add component (AddParameter): Name = "MPN"; Value = "PPPC192LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "S7122-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPPC192LFBN-RC/S7122-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P10(PPPC192LFBN-RC)
+Add component (AddParameter): Name = "MPN"; Value = "PPPC192LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "S7122-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.digikey.ca/product-detail/en/sullins-connector-solutions/PPPC192LFBN-RC/S7122-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2112X05M)
+Add component (AddParameter): Name = "MPN"; Value = "CRCW08054R99FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor_4.99R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "541-4.99CCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/CRCW08054R99FKEA/541-4.99CCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.99R"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2112X05M)
+Add component (AddParameter): Name = "MPN"; Value = "CRCW08054R99FKEA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "Resistor_4.99R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "541-4.99CCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/CRCW08054R99FKEA/541-4.99CCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.99R"; VariantName = "[No Variations]"
+Added Component: Designator=U1(NSO16_L)
+Add component (AddParameter): Name = "MPN"; Value = "CH340G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "CH340G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.mpja.com/download/35227cpdata.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U2(SO20_N)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOIC127P1030-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-013-AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/1330/l293d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Jun-1996"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "L293DD013TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "20-Pin Plastic Small Outline Integrated Circuit 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SO20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jul-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "497-2937-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "http://www.digikey.ca/product-detail/en/L293DD013TR/497-2937-1-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U3(TSOP65P640X160-20M)
+Add component (AddParameter): Name = "MPN"; Value = "TB6608FNG,C8,EL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "TB6608FNGC8ELCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.digikey.ca/en/products/detail/toshiba-semiconductor-and-storage/TB6608FNG-C8-EL/1730074"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(HCS-49/U)
+Add component (AddParameter): Name = "MPN"; Value = "AS-12.000-18-SMD-TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PN"; Value = "2151-AS-12.000-18-SMD-TRCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "URL"; Value = "https://www.digikey.ca/en/products/detail/raltron-electronics/AS-12-000-18-SMD-TR/10271753"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C11-1
+Added Pin To Net: NetName=3V3 Pin=DS1-1
+Added Pin To Net: NetName=3V3 Pin=P2-2
+Added Pin To Net: NetName=3V3 Pin=P3-2
+Added Pin To Net: NetName=3V3 Pin=P7-12
+Added Pin To Net: NetName=3V3 Pin=P7-16
+Added Pin To Net: NetName=3V3 Pin=U3-1
+Added Pin To Net: NetName=3V3 Pin=U3-2
+Added Pin To Net: NetName=3V3 Pin=U3-4
+Added Pin To Net: NetName=3V3 Pin=U3-5
+Added Pin To Net: NetName=3V3 Pin=U3-17
+Added Pin To Net: NetName=3V3 Pin=U3-18
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V0 Pin=C6-2
+Added Pin To Net: NetName=5V0 Pin=P7-18
+Added Pin To Net: NetName=5V0 Pin=U2-20
+Added Net: Name=5V0
+Added Pin To Net: NetName=AGND Pin=P4-1
+Added Pin To Net: NetName=AGND Pin=P10-32
+Added Net: Name=AGND
+Added Pin To Net: NetName=ANALOG_IN_1 Pin=P4-2
+Added Pin To Net: NetName=ANALOG_IN_1 Pin=P7-38
+Added Net: Name=ANALOG_IN_1
+Added Pin To Net: NetName=ANALOG_IN_2 Pin=P4-3
+Added Pin To Net: NetName=ANALOG_IN_2 Pin=P7-36
+Added Net: Name=ANALOG_IN_2
+Added Pin To Net: NetName=ANALOG_IN_3 Pin=P4-4
+Added Pin To Net: NetName=ANALOG_IN_3 Pin=P7-35
+Added Net: Name=ANALOG_IN_3
+Added Pin To Net: NetName=ANALOG_OUT Pin=P4-5
+Added Pin To Net: NetName=ANALOG_OUT Pin=P7-32
+Added Net: Name=ANALOG_OUT
+Added Pin To Net: NetName=AVDD Pin=P4-6
+Added Pin To Net: NetName=AVDD Pin=P10-7
+Added Net: Name=AVDD
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=GND Pin=DS1-2
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-9
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P3-5
+Added Pin To Net: NetName=GND Pin=P5-1
+Added Pin To Net: NetName=GND Pin=P7-8
+Added Pin To Net: NetName=GND Pin=P7-19
+Added Pin To Net: NetName=GND Pin=P7-20
+Added Pin To Net: NetName=GND Pin=P7-22
+Added Pin To Net: NetName=GND Pin=P10-9
+Added Pin To Net: NetName=GND Pin=P10-20
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-15
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U2-6
+Added Pin To Net: NetName=GND Pin=U2-7
+Added Pin To Net: NetName=GND Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=GND Pin=U2-17
+Added Pin To Net: NetName=GND Pin=U3-15
+Added Net: Name=GND
+Added Pin To Net: NetName=MOTOR1_DIR1 Pin=P10-16
+Added Pin To Net: NetName=MOTOR1_DIR1 Pin=U2-2
+Added Net: Name=MOTOR1_DIR1
+Added Pin To Net: NetName=MOTOR1_DIR2 Pin=P10-30
+Added Pin To Net: NetName=MOTOR1_DIR2 Pin=U2-9
+Added Net: Name=MOTOR1_DIR2
+Added Pin To Net: NetName=MOTOR1_ENCODER_A Pin=P2-3
+Added Pin To Net: NetName=MOTOR1_ENCODER_A Pin=P10-13
+Added Net: Name=MOTOR1_ENCODER_A
+Added Pin To Net: NetName=MOTOR1_ENCODER_B Pin=P2-4
+Added Pin To Net: NetName=MOTOR1_ENCODER_B Pin=P10-15
+Added Net: Name=MOTOR1_ENCODER_B
+Added Pin To Net: NetName=MOTOR1_PWM Pin=P10-23
+Added Pin To Net: NetName=MOTOR1_PWM Pin=U2-1
+Added Net: Name=MOTOR1_PWM
+Added Pin To Net: NetName=MOTOR2_DIR1 Pin=P10-28
+Added Pin To Net: NetName=MOTOR2_DIR1 Pin=U2-12
+Added Net: Name=MOTOR2_DIR1
+Added Pin To Net: NetName=MOTOR2_DIR2 Pin=P10-26
+Added Pin To Net: NetName=MOTOR2_DIR2 Pin=U2-19
+Added Net: Name=MOTOR2_DIR2
+Added Pin To Net: NetName=MOTOR2_ENCODER_A Pin=P3-3
+Added Pin To Net: NetName=MOTOR2_ENCODER_A Pin=P10-17
+Added Net: Name=MOTOR2_ENCODER_A
+Added Pin To Net: NetName=MOTOR2_ENCODER_B Pin=P3-4
+Added Pin To Net: NetName=MOTOR2_ENCODER_B Pin=P7-21
+Added Net: Name=MOTOR2_ENCODER_B
+Added Pin To Net: NetName=MOTOR2_PWM Pin=P10-21
+Added Pin To Net: NetName=MOTOR2_PWM Pin=U2-11
+Added Net: Name=MOTOR2_PWM
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=U1-4
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=NetC7_1 Pin=U1-7
+Added Pin To Net: NetName=NetC7_1 Pin=Y1-1
+Added Net: Name=NetC7_1
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=U1-8
+Added Pin To Net: NetName=NetC8_1 Pin=Y1-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetC9_1 Pin=C9-1
+Added Pin To Net: NetName=NetC9_1 Pin=C10-1
+Added Pin To Net: NetName=NetC9_1 Pin=D2-1
+Added Pin To Net: NetName=NetC9_1 Pin=U3-6
+Added Net: Name=NetC9_1
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U3-3
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=P1-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=P5-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-6
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-5
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=U2-3
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_6 Pin=P2-6
+Added Pin To Net: NetName=NetP2_6 Pin=U2-8
+Added Net: Name=NetP2_6
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=U2-13
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_6 Pin=P3-6
+Added Pin To Net: NetName=NetP3_6 Pin=U2-18
+Added Net: Name=NetP3_6
+Added Pin To Net: NetName=NetP6_1 Pin=P6-1
+Added Pin To Net: NetName=NetP6_1 Pin=U3-13
+Added Net: Name=NetP6_1
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_2 Pin=U3-11
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=NetP6_3 Pin=P6-3
+Added Pin To Net: NetName=NetP6_3 Pin=U3-10
+Added Net: Name=NetP6_3
+Added Pin To Net: NetName=NetP6_4 Pin=P6-4
+Added Pin To Net: NetName=NetP6_4 Pin=U3-8
+Added Net: Name=NetP6_4
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U3-9
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U3-12
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=OLED_CS Pin=DS1-6
+Added Pin To Net: NetName=OLED_CS Pin=P10-22
+Added Net: Name=OLED_CS
+Added Pin To Net: NetName=OLED_DC Pin=DS1-7
+Added Pin To Net: NetName=OLED_DC Pin=P10-24
+Added Net: Name=OLED_DC
+Added Pin To Net: NetName=OLED_MOSI Pin=DS1-4
+Added Pin To Net: NetName=OLED_MOSI Pin=P7-37
+Added Net: Name=OLED_MOSI
+Added Pin To Net: NetName=OLED_RES Pin=DS1-8
+Added Pin To Net: NetName=OLED_RES Pin=P7-34
+Added Net: Name=OLED_RES
+Added Pin To Net: NetName=OLED_SCK Pin=DS1-5
+Added Pin To Net: NetName=OLED_SCK Pin=P10-19
+Added Net: Name=OLED_SCK
+Added Pin To Net: NetName=STEPPER_DIR Pin=P10-4
+Added Pin To Net: NetName=STEPPER_DIR Pin=U3-7
+Added Net: Name=STEPPER_DIR
+Added Pin To Net: NetName=STEPPER_ENABLE Pin=P10-1
+Added Pin To Net: NetName=STEPPER_ENABLE Pin=U3-19
+Added Net: Name=STEPPER_ENABLE
+Added Pin To Net: NetName=STEPPER_RESET Pin=P10-2
+Added Pin To Net: NetName=STEPPER_RESET Pin=U3-14
+Added Net: Name=STEPPER_RESET
+Added Pin To Net: NetName=STEPPER_STEP Pin=P7-30
+Added Pin To Net: NetName=STEPPER_STEP Pin=U3-20
+Added Net: Name=STEPPER_STEP
+Added Pin To Net: NetName=USB_UART_RX Pin=P10-33
+Added Pin To Net: NetName=USB_UART_RX Pin=U1-2
+Added Net: Name=USB_UART_RX
+Added Pin To Net: NetName=USB_UART_TX Pin=P7-17
+Added Pin To Net: NetName=USB_UART_TX Pin=U1-3
+Added Net: Name=USB_UART_TX
+Added Pin To Net: NetName=VBUS Pin=C2-1
+Added Pin To Net: NetName=VBUS Pin=C4-1
+Added Pin To Net: NetName=VBUS Pin=J1-1
+Added Pin To Net: NetName=VBUS Pin=U1-16
+Added Net: Name=VBUS
+Added Pin To Net: NetName=VMOTOR Pin=C1-2
+Added Pin To Net: NetName=VMOTOR Pin=C3-1
+Added Pin To Net: NetName=VMOTOR Pin=D1-1
+Added Pin To Net: NetName=VMOTOR Pin=U2-10
+Added Net: Name=VMOTOR
+Added Class: Name=Sheet1
+Added Class: Name=Sheet2
+Added Class: Name=Sheet3
