@@ -28,7 +28,7 @@ The **GController** is a feature-rich embedded system designed using the ESP32-S
 ---
 
 ## Documentation
-- [Schematic](.pcb_designing/Project_G/.Documents/Schematic.pdf)
-- [PCB Layout](.pcb_designing/Project_G/.Documents/PCB.pdf)
+- [Schematic](./Documents/Schematic.pdf)
+- [PCB Layout](./Documents/PCB.pdf)
 
 Repository updated successfully.
