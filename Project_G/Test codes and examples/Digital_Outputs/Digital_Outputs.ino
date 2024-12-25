@@ -8,7 +8,7 @@ MCP23017 mcp2(0x21, Wire);  // MCP23017 at address 0x21
 void setup() {
   // Initialize Serial communication
   Serial.begin(115200);
-  while (!Serial);  // Wait for serial monitor to be ready
+  //while (!Serial);  // Wait for serial monitor to be ready
 
   // Initialize I2C communication
   Wire.begin();
