@@ -32,8 +32,8 @@ Adafruit_ADS1115 ads;
 // Using Ohm's Law: V = I * R
 // For 4 mA (min current) -> V = 0.004 A * 150 ohms = 0.6 V
 // For 20 mA (max current) -> V = 0.02 A * 150 ohms = 3.0 V
-#define VOLTAGE_MIN 0.6  // Corresponding to 4mA
-#define VOLTAGE_MAX 3.0  // Corresponding to 20mA
+#define VOLTAGE_MIN 0.6                            // Corresponding to 4mA
+#define VOLTAGE_MAX 3.0                            // Corresponding to 20mA
 #define VOLTAGE_RANGE (VOLTAGE_MAX - VOLTAGE_MIN)  // This is 2.4V (3.0V - 0.6V)
 
 // Calculate the scaling factor for converting voltage to the desired range (Temperature or Humidity)
@@ -52,7 +52,8 @@ void setup() {
   // Initialize the ADS1115
   if (!ads.begin()) {
     Serial.println("Couldn't find ADS1115!");
-    while (1);  // Halt the program if the sensor is not found
+    while (1)
+      ;  // Halt the program if the sensor is not found
   }
 
   Serial.println("ADS1115 sensor found!");
@@ -76,8 +77,7 @@ void loop() {
       Serial.print(" V  Temperature: ");
       Serial.print(temperature);
       Serial.println(" °C");
-    } 
-    else if (channel == CHANNEL_1) {
+    } else if (channel == CHANNEL_1) {
       // Calculate humidity for Channel 1 (Humidity range: 0% to 100%)
       float humidity = map_voltage_to_humidity(voltage);
       Serial.print("Channel 1 (Humidity) - Voltage: ");
@@ -85,8 +85,7 @@ void loop() {
       Serial.print(" V  Humidity: ");
       Serial.print(humidity);
       Serial.println(" %");
-    } 
-    else {
+    } else {
       // For other channels, just print the voltage
       Serial.print("Channel ");
       Serial.print(channel);
